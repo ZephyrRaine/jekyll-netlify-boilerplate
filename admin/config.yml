@@ -24,7 +24,6 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Featured Image"
         name: "thumbnail"
         widget: "image"
-        default: "/uploads/chocolate-dogecoin.jpg"
         media_library:
           config:
           multiple: true
