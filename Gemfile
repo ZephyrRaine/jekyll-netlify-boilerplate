@@ -6,5 +6,4 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jemoji'
-  gem 'jekyll-analytics'
 end

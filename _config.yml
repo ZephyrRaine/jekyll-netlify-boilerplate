@@ -4,18 +4,9 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
   projects:
     output: true
     permalink: /project/:slug
-  photographs: 
-    output: true
-    permalink: /photos/:slug
-  arts:
-    output: true
-    permalink: /arts/:slug
 
 
 defaults:
@@ -33,25 +24,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
       type: "projects"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "photographs"
-    values: 
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "arts"
     values:
       layout: "project"
 
@@ -68,12 +41,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-analytics
-
-jekyll_analytics: 
-  GoogleAnalytics: 
-    id: UA-143755009-1
-    anonymizeIp: false
 
 paginate: 6
 paginate_path: "/blog/page:num/"
