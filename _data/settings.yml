@@ -62,9 +62,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Bitter:400,700" rel="stylesheet">'
-  title_font: '"Bitter", sans-serif'
-  body_font: '"Bitter", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Bitter:700|Roboto+Slab&display=swap" rel="stylesheet">'
+  title_font: '"Bitter", serif'
+  body_font: '"Roboto Slab", serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
