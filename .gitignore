@@ -1,4 +1,4 @@
-_site
 .sass-cache
-.jekyll-metadata
-.users.yml
+.DS_Store
+_posts/2019-09-22-notes_on_cv_01.md
+_projects/2019-12-17-Object-Tracking.md
