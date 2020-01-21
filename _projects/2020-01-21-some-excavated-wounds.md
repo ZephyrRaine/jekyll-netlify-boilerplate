@@ -1,6 +1,6 @@
 ---
-subtitle: Granite holds echoes of trauma.
 title: Some Excavated Wounds
+subtitle: Granite holds echoes of trauma.
 featured_image: /images/sew.png
 ---
 <!--StartFragment-->
@@ -9,7 +9,8 @@ featured_image: /images/sew.png
 
 **A labour sim. Content warning for dark themes, and flashing lights.**
 
-<a href="https://sandgardeners.itch.io/some-excavated-ruins" class="button button--large">Itch.io</a>
+<a href="https://sandgardeners.itch.io/some-excavated-ruins" class="button button--large">Itch.io</a>﻿
+<a href="https://ldjam.com/events/ludum-dare/45/some-excavated-wounds" class="button button--large">LDJam #45</a>
 
 Devon, England, is a root site of deep cultural trauma; the legacy of colonialism, slavery, and the systematic exploitation of workers and the land. You could say the whole place has been built on top of this exploitation, tunnels wound the landscape, many uncharted, unknown, and harbouring dark secrets.
 
@@ -32,7 +33,7 @@ What do we use to record trauma and play it back? What memories of enslavement d
     <img src="/images/swe4.jpg">
 </div>
 
-[*Gameplay video by Sebastian Standke*](https://game-curator.com)
+[*Gameplay video by Sebastian Standke:*](https://game-curator.com)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGKUHb0gl1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--EndFragment-->
