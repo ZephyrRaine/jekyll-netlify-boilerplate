@@ -9,7 +9,7 @@ featured_image: /images/sew.png
 
 **A labour sim. Content warning for dark themes, and flashing lights.**
 
-<a href=\"https://sandgardeners.itch.io/some-excavated-ruins\" class=\"button button--large\">Itch.io</a>
+<a href="https://sandgardeners.itch.io/some-excavated-ruins" class="button button--large">Itch.io</a>
 
 Devon, England, is a root site of deep cultural trauma; the legacy of colonialism, slavery, and the systematic exploitation of workers and the land. You could say the whole place has been built on top of this exploitation, tunnels wound the landscape, many uncharted, unknown, and harbouring dark secrets.
 
@@ -22,17 +22,17 @@ The Stone Tape Theory is a way to explain hauntings: the energy present in momen
 What do we use to record trauma and play it back? What memories of enslavement do these objects harbour?
 
 
-> “The confrontation is energy draining after all, but necessary for the healing process. Even when we are just staring in the void at the end.\" - [Sebastian Standke](https://game-curator.com/jams/ludum-dare-45-some-excavated-wounds/)
+> “The confrontation is energy draining after all, but necessary for the healing process. Even when we are just staring in the void at the end." - [Sebastian Standke](https://game-curator.com/jams/ludum-dare-45-some-excavated-wounds/)
 
 
-<div class=\"gallery\" data-columns=\"3\">
-    <img src=\"/images/swe1.jpg\">
-    <img src=\"/images/swe2.jpg\">
-    <img src=\"/images/swe3.jpg\">
-    <img src=\"/images/swe4.jpg\">
+<div class="gallery" data-columns="3">
+    <img src="/images/swe1.jpg">
+    <img src="/images/swe2.jpg">
+    <img src="/images/swe3.jpg">
+    <img src="/images/swe4.jpg">
 </div>
 
 [*Gameplay video by Sebastian Standke*](https://game-curator.com)
-<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xGKUHb0gl1M\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGKUHb0gl1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--EndFragment-->
