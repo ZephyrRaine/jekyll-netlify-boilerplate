@@ -26,7 +26,7 @@ What do we use to record trauma and play it back? What memories of enslavement d
 > “The confrontation is energy draining after all, but necessary for the healing process. Even when we are just staring in the void at the end." - [Sebastian Standke](https://game-curator.com/jams/ludum-dare-45-some-excavated-wounds/)
 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
     <img src="/images/swe1.jpg">
     <img src="/images/swe2.jpg">
     <img src="/images/swe3.jpg">
