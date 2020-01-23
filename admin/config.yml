@@ -47,7 +47,13 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Gallery"
         name: "gallery"
         widget: "list"
-        field: {label: Image, name: image, widget: image}
+        field: 
+          - label: "Image" 
+            name: "image"
+            widget: "image"
+            media_library:
+              config:
+              multiple: true
       - label: "Videos"
         name: "videos"
         widget: "list"
