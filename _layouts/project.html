@@ -46,7 +46,7 @@ layout: default
 			<p><a href="{{ video.videoattriblink }}"><em>{{ video.videoattrib }}</em></a></p>
 			<div class="video-wrap">
 				<div class="video" style="padding-bottom:56.25%;">
-					<iframe src="{{ video.videosource }}"></iframe>
+					<iframe src="{{ video.videosource }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 				</div>
 			</div>
 		{% endfor %}
