@@ -27,8 +27,8 @@ layout: default
 		{% endif %}
 
 		{{ page.content }}
-		
-		{% for quote in page.quote %}
+
+		{% for quote in page.quotes %}
 
 			<blockquote>
 				<p>{{ quote.quotetext }} - <a href="{{ quote.quotesource }}">{{ quote.quoteauthor }}</a></p>
