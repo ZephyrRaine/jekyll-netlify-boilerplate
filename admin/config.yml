@@ -25,11 +25,10 @@ collections: # A list of collections the CMS should be able to edit
         media_library:
           config:
           multiple: true
-
       - label: "Quote"
         name: "quote"
         widget: "list"
         fields:
-          - {label: Quote, name: quotetext, widget: string}
-          - {label: Author, name: quoteauthor, widget: string}
-          - {label: Source, name: quotesource, widget: string}
+          - {label: "Quote", name: "quotetext", widget: "string"}
+          - {label: "Author", name: "quoteauthor", widget: "string"}
+          - {label: "Source", name: "quotesource", widget: "string"}
