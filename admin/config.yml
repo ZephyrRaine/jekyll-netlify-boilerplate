@@ -44,3 +44,14 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Label", name: "buttonlabel", widget: "string"}
           - {label: "Target", name: "buttontarget", widget: "string"}
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        field: {label: Image, name: image, widget: image}
+      - label: "Videos"
+        name: "videos"
+        widget: "list"
+        fields:
+          - {label: "Attrib", name: "videoattrib", widget: "string"}
+          - {label: "AttribLink", name: "videoattriblink", widget: "string"}
+          - {label: "Source", name: "videosource", widget: "string"}
