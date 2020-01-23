@@ -24,11 +24,23 @@ collections: # A list of collections the CMS should be able to edit
         widget: "image"
         media_library:
           config:
-          multiple: true
-      - label: "Quote"
-        name: "quote"
+          multiple: false
+      - label: "Main Image"
+        name: "main_image"
+        widget: "image"
+        media_library:
+          config:
+          multiple: false
+      - label: "Quotes"
+        name: "quotes"
         widget: "list"
         fields:
           - {label: "Quote", name: "quotetext", widget: "string"}
           - {label: "Author", name: "quoteauthor", widget: "string"}
           - {label: "Source", name: "quotesource", widget: "string"}
+      - label: "Buttons"
+        name: "buttons"
+        widget: "list"
+        fields:
+          - {label: "Label", name: "buttonlabel", widget: "string"}
+          - {label: "Target", name: "buttontarget", widget: "string"}

@@ -15,11 +15,25 @@ layout: default
 
 <section class="single">
 	<div class="wrap">
-		<img src="{{ page.main_image }}" alt="{{ page.title }}">
-	</div>
-	<div class="wrap">
+		{% if page.main_image %}
+			<img src="{{ page.main_image }}" alt="{{ page.title }}">
+		{% endif %}
+		{% if page.buttons %}
+			<p>
+				{% for button in page.buttons %}
+					<a href="{{ button.buttontarget }}" class="button button--large">{{ button.buttonlabel }}</a>
+				{% endfor %}
+			</p>
+		{% endif %}
 
 		{{ page.content }}
+		
+		{% for quote in page.quote %}
 
+			<blockquote>
+				<p>{{ quote.quotetext }} - <a href="{{ quote.quotesource }}">{{ quote.quoteauthor }}</a></p>
+			</blockquote>
+
+		{% endfor %}	
 	</div>
 </section>
