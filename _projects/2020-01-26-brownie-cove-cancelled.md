@@ -34,7 +34,7 @@ gallery:
   - /images/bcc1.png
   - /images/bcc2.jpg
 videos:
-  - videoattrib: 'Six hours playthrough by なんてことなの。:'
+  - videoattrib: 'Full-length playthrough by なんてことなの。:'
     videoattriblink: 'https://www.youtube.com/channel/UC6VrkTyIyZAHG-Vfd6IjAcg'
     videosource: 'https://www.youtube.com/embed/D-PB8J4VYEE'
 sandgardeners: true
