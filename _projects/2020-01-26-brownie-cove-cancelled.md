@@ -37,6 +37,9 @@ videos:
   - videoattrib: 'Full-length playthrough by なんてことなの。:'
     videoattriblink: 'https://www.youtube.com/channel/UC6VrkTyIyZAHG-Vfd6IjAcg'
     videosource: 'https://www.youtube.com/embed/D-PB8J4VYEE'
+  - videoattrib: 'Gameplay video by toongal90:'
+    videoattriblink: 'https://www.youtube.com/user/toongal90'
+    videosource: 'https://www.youtube.com/embed/HnyVt7hTFf4'
 sandgardeners: true
 ---
 "This is an announcement for all passengers on flight BC036 to Brownie Cove. We are sorry to inform you that your flight has been delayed. This is due to… unforeseen circumstances. Please check the boards for more up-to-date information about this flight."  
