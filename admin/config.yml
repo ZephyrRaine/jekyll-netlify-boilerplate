@@ -28,9 +28,14 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Main Image"
         name: "main_image"
         widget: "image"
+        required: false
         media_library:
           config:
           multiple: false
+      - label: "Streetcred"
+        name : "streetcred"
+        widget: "list"
+        field: {label: "cred", name: "cred", widget: "string"}
       - label: "Quotes"
         name: "quotes"
         widget: "list"
@@ -55,3 +60,4 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Attrib", name: "videoattrib", widget: "string"}
           - {label: "AttribLink", name: "videoattriblink", widget: "string"}
           - {label: "Source", name: "videosource", widget: "string"}
+      - {label: "SandGardenersFooter", name: "sandgardeners", widget: "boolean", default: true}

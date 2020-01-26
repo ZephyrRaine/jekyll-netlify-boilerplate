@@ -27,28 +27,54 @@ layout: default
 		{% endif %}
 
 		{{ page.content }}
+		{% if page.quotes %}
+			<hr>
+			<h2>Quotes</h2>
+			{% for quote in page.quotes %}
 
-		{% for quote in page.quotes %}
+				<blockquote>
+					<p>{{ quote.quotetext }} - <a href="{{ quote.quotesource }}">{{ quote.quoteauthor }}</a></p>
+				</blockquote>
 
-			<blockquote>
-				<p>{{ quote.quotetext }} - <a href="{{ quote.quotesource }}">{{ quote.quoteauthor }}</a></p>
-			</blockquote>
+			{% endfor %}
+		{% endif %}
+		{% if page.streetcreds %}
+			<hr>
+			<h2>Street Cred</h2>
+			<ul>
+			{% for cred in page.streetcreds %}
+				<li>
+					::marker
+					{{ cred }}
+				</li>
+			{% endfor %}
+			</ul>
+		{% endif %}
 
-		{% endfor %}
 		{% if page.gallery %}
+			<hr>
+			<h2> Screenshots </h2>
 			<div class="gallery" data-columns="1">
 				{% for image in page.gallery %}
 					<img src="{{ image }}"">
 				{% endfor %}
 			</div>
 		{% endif %}
-		{% for video in page.videos %}
-			<p><a href="{{ video.videoattriblink }}"><em>{{ video.videoattrib }}</em></a></p>
-			<div class="video-wrap">
-				<div class="video" style="padding-bottom:56.25%;">
-					<iframe src="{{ video.videosource }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+
+		{% if page.videos %}
+			<hr>
+			<h2> Videos </h2>
+			{% for video in page.videos %}
+				<p><a href="{{ video.videoattriblink }}"><em>{{ video.videoattrib }}</em></a></p>
+				<div class="video-wrap">
+					<div class="video" style="padding-bottom:56.25%;">
+						<iframe src="{{ video.videosource }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+					</div>
 				</div>
-			</div>
-		{% endfor %}
+			{% endfor %}
+		{% endif %}
+		{% if page.sandgardeners %}
+
+		{% endif %}
 	</div>
 </section>
