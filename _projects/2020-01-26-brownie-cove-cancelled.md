@@ -26,6 +26,17 @@ quotes:
       At first it’s nice to have time to potter around, to grab a snack and
       check out the airport’s graveyard or petting zoo with ambulant hoverfish,
       but eventually… the drudgery of waiting hits.
+buttons:
+  - buttonlabel: Itch.io
+    buttontarget: 'https://sandgardeners.itch.io/brownie-cove-cancelled'
+gallery:
+  - /images/bcc.png
+  - /images/bcc1.png
+  - /images/bcc2.jpg
+videos:
+  - videoattrib: 'Six hours playthrough by なんてことなの。:'
+    videoattriblink: 'https://www.youtube.com/channel/UC6VrkTyIyZAHG-Vfd6IjAcg'
+    videosource: 'https://www.youtube.com/embed/D-PB8J4VYEE'
 sandgardeners: true
 ---
 "This is an announcement for all passengers on flight BC036 to Brownie Cove. We are sorry to inform you that your flight has been delayed. This is due to… unforeseen circumstances. Please check the boards for more up-to-date information about this flight."  
