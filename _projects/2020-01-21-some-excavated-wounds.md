@@ -2,6 +2,7 @@
 title: Some Excavated Wounds
 subtitle: Granite holds echoes of trauma.
 featured_image: /images/sew.png
+main_image: /images/3_+8yT.png
 ---
 <!--StartFragment-->
 
@@ -25,6 +26,9 @@ What do we use to record trauma and play it back? What memories of enslavement d
 
 > “The confrontation is energy draining after all, but necessary for the healing process. Even when we are just staring in the void at the end." - [Sebastian Standke](https://game-curator.com/jams/ludum-dare-45-some-excavated-wounds/)
 
+### Street Cred
+* Blabalbla
+* Blablalballbal
 
 <div class="gallery" data-columns="1">
     <img src="/images/swe1.jpg">
