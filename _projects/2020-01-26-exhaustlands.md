@@ -28,6 +28,14 @@ buttons:
     buttontarget: 'https://sandgardeners.itch.io/exhaustlands'
   - buttonlabel: Armor Games
     buttontarget: 'https://armorgames.com/exhaustlands-game/18548'
+gallery:
+  - /images/exh1.png
+  - /images/exh3.png
+  - /images/exh2.png
+videos:
+  - videoattrib: 'Gameplay video by Sebastian Standke:'
+    videoattriblink: 'https://game-curator.com'
+    videosource: 'https://www.youtube.com/embed/OHlUGFW87LU'
 sandgardeners: true
 ---
 It is a time of war.  
