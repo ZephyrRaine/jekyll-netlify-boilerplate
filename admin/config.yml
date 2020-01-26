@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
           config:
           multiple: false
       - label: "Streetcred"
-        name : "streetcred"
+        name : "streetcreds"
         widget: "list"
         field: {label: "cred", name: "cred", widget: "string"}
       - label: "Quotes"
