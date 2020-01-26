@@ -2,8 +2,9 @@
 title: Between Stations
 subtitle: Late night static voyage.
 featured_image: /images/bs1.png
-main_image: /images/ezgif-7-4e60c7f2744d.png
+main_image: /images/bsfv.JPG
 streetcreds:
+  - Feral Vector 2019 - Official Selection
   - EGX 2018 Leftfield Collection - Official Selection
   - EGX Berlin 2018 Leftfield Collection - Official Selection
   - Gamecurator's GOTY 2017 - Storytelling category
@@ -43,6 +44,7 @@ gallery:
   - /images/bs3.png
   - /images/bs4.png
   - /images/bs6.png
+  - /images/ezgif-7-4e60c7f2744d.png
 videos:
   - videoattrib: 'Gameplay video by Sebastian Standke:'
     videoattriblink: 'https://game-curator.com'
@@ -51,4 +53,4 @@ sandgardeners: true
 ---
 You can't remember what time it is, but you know it is late. you have just checked into your room at the Brownie Cove Hotel. the bed is lumpy and you can't sleep, but the tv is tempting...  
 ﻿
-For the EGX 2018 Leftfield Collection we exhibited the game in an installation format with tactile tuning dials and real CRT eye-strain.  
+For Feral Vector 2019 and the EGX 2018 Leftfield Collection we exhibited the game in an installation format with tactile tuning dials and real CRT eye-strain.  
