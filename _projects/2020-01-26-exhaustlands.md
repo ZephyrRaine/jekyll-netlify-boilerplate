@@ -6,6 +6,7 @@ main_image: /images/exh.png
 streetcreds:
   - 'EGX Rezzed 2019 Leftfield Collection - Official Selection '
   - 'Gamecurator''s GOTY 2018 - Atmosphere category '
+  - '#79 of the 100 best free indie games of all time - The Indie Game Website'
 quotes:
   - quoteauthor: Electron Dance
     quotesource: 'http://www.electrondance.com/dabbling-with-exhaustlands/'
