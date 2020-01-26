@@ -3,6 +3,8 @@ title: Definition of a Ghuest
 subtitle: Haunted hotel documentary.
 featured_image: /images/dog.jpg
 main_image: /images/dog2.jpg
+streetcreds:
+  - Game Curator's GOTY 2018 - Honorable mention in Unconventionality category
 quotes:
   - quoteauthor: Oujevipo
     quotesource: 'https://oujevipo.fr/general/6839-definition-of-a-ghuest/'
