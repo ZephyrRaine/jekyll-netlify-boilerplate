@@ -27,11 +27,10 @@ layout: default
 		{% endif %}
 
 		{{ page.content }}
+
 		{% if page.quotes %}
 			<hr>
-			<h2>Quotes</h2>
 			{% for quote in page.quotes %}
-
 				<blockquote>
 					<p>"{{ quote.quotetext }}" - <a href="{{ quote.quotesource }}">{{ quote.quoteauthor }}</a></p>
 				</blockquote>
@@ -40,7 +39,6 @@ layout: default
 		{% endif %}
 		{% if page.streetcreds %}
 			<hr>
-			<h2>Street Cred</h2>
 			<ul>
 			{% for cred in page.streetcreds %}
 				<li>
@@ -52,7 +50,6 @@ layout: default
 
 		{% if page.gallery %}
 			<hr>
-			<h2> Screenshots </h2>
 			<div class="gallery" data-columns="1">
 				{% for image in page.gallery %}
 					<img src="{{ image }}"">
@@ -62,7 +59,6 @@ layout: default
 
 		{% if page.videos %}
 			<hr>
-			<h2> Videos </h2>
 			{% for video in page.videos %}
 				<p><a href="{{ video.videoattriblink }}"><em>{{ video.videoattrib }}</em></a></p>
 				<div class="video-wrap">
@@ -74,8 +70,8 @@ layout: default
 		{% endif %}
 		{% if page.sandgardeners %}
 			<hr>
-			<h2>This is a <a href="https://sandgardeners.itch.io">Sand Gardeners</a> project</h2>
-			<p>The Sand Gardeners are conceptual artist <a href="https://twitter.com/browniecove" target="_blank" rel="nofollow noopener">Sam Machell</a> and visual programmer Colin Le Duc, sometimes in collaboration with master mapmaker <a href="https://twitter.com/oldloths" target="_blank" rel="nofollow noopener">Marc Loths</a>.<br>
+			<h2><i class="fab fa-fort-awesome-alt"></i> This is a Sand Gardeners project</h2>
+			<p>The <a href="https://sandgardeners.itch.io">Sand Gardeners</a> are conceptual artist <a href="https://twitter.com/browniecove" target="_blank" rel="nofollow noopener">Sam Machell</a> and visual programmer Colin Le Duc, sometimes in collaboration with master mapmaker <a href="https://twitter.com/oldloths" target="_blank" rel="nofollow noopener">Marc Loths</a>.<br>
 			</p>
 			<p>
 				They are interested, varyingly, in lost futures, haunted texts, and psychedelic memories of abandoned worlds.<br>
