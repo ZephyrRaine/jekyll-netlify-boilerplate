@@ -24,7 +24,7 @@ videos:
     videosource: 'https://www.youtube.com/embed/xGKUHb0gl1M'
 sandgardeners: true
 ---
-**A labour sim. Content warning for dark themes, and flashing lights.**  
+** A labour sim. Content warning for dark themes, and flashing lights.  
 ﻿  
 Devon, England, is a root site of deep cultural trauma; the legacy of colonialism, slavery, and the systematic exploitation of workers and the land. You could say the whole place has been built on top of this exploitation, tunnels wound the landscape, many uncharted, unknown, and harbouring dark secrets.  
 ﻿  
