@@ -17,6 +17,9 @@ gallery:
   - /images/k42.png
   - /images/k43.png
   - /images/k44.png
+  - /images/k46.png
+  - /images/k47.png
+  - /images/k49.png
 videos:
   - videoattrib: 'Gameplay video by Sebastian Standke:'
     videoattriblink: 'https://game-curator.com'
