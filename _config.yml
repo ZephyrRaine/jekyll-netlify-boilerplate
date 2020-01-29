@@ -6,7 +6,8 @@ collections:
     permalink: /:name
   projects:
     output: true
-    permalink: /project/:slug
+    sort_by: title
+    permalink: /:slug
 
 
 defaults:
