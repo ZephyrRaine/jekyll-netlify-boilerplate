@@ -17,6 +17,10 @@ gallery:
   - /images/k42.png
   - /images/k43.png
   - /images/k44.png
+videos:
+  - videoattrib: 'Gameplay video by Sebastian Standke:'
+    videoattriblink: 'https://game-curator.com'
+    videosource: 'https://www.youtube.com/embed/VhdkplsRM2g'
 sandgardeners: true
 ---
 The game uses a VERB NOUN text input system to search a database of videos, assembling unique combinations of actions to the recipe/rhythm of your heart ♥️ Reflecting on domestic processes through the lens of enchantment, and twisting them through autobiographical musings of disenchantment, Kitchen For One shows cooking to be a shadowy activity of anxiety and confusion. Kitchen For One also uses this language and personal story to examine the legacy of structural filmmaking through the analysis of Michael Snow’s film Solar Breath. A bold mix to satisfy everyone's tastes… 
