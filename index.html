@@ -8,7 +8,7 @@ featured_image: /images/social.jpg
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap randomize">
-
+		
 		{% for project in site.projects %}
 
 		<div class="portfolio-item">
@@ -16,7 +16,7 @@ featured_image: /images/social.jpg
 			<a class="portfolio-item__link" href="{{ project.url }}">
 
 				<div class="portfolio-item__image">
-					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+					<img data-src="{{ project.featured_image  }}" alt="{{ project.title }}">
 				</div>
 
 				<div class="portfolio-item__content">
